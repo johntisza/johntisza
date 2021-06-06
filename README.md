@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @johntisza
+- 👀 I’m interested in ... coding in python
+- 🌱 I’m currently learning ... Python
+- 💞️ I’m looking to collaborate on ... beginner Python projects
