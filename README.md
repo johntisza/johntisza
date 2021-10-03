@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @johntisza
-- 👀 I’m interested in ... coding in python
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... beginner Python projects
+- 👋 Hi, I’m @johntisza. From Chicago, IL
+- Self-taught in Python 3 since October 2020
+- Presently open to in-person and remote opportunities for Junior level Python positions
